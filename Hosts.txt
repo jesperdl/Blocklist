@@ -29,6 +29,7 @@ analytics.yahoo.com
 analyticsengine.s3.amazonaws.com
 api.ad.xiaomi.com
 app.bugsnag.com
+api.bugsnag.com
 app.getsentry.com
 appmetrica.yandex.com
 browser.sentry-cdn.com
